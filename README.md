@@ -1,2 +1,2 @@
-# CSES-SortingAndSearching
-It contains CSES problem set Sorting and Searching solutions.
+# CSES-Problem-Set-Solutions
+It contains CSES problem set solutions.
